@@ -16,7 +16,7 @@ timezone: https://Anjalis-mind.github.io/Time-Zone-Picker
 
 title: Mind Dump Blogs # the main title
 
-tagline: I dump what i read. Sorry that ypu found this. # it will display as the subtitle
+tagline: I dump what i read. Sorry that you found this :) # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar:https://media.licdn.com/dms/image/v2/C4E03AQErSTg7Bdn8TQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1640244078905?e=1757548800&v=beta&t=9y-W1z3vP3jwfq3h7LsD9UjRr1LKwrKcXk2TY1Raqv4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
